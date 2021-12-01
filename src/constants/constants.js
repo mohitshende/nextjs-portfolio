@@ -20,6 +20,25 @@ export const projects = [
     id: 1,
   },
   {
+    title: "Portfolio Website",
+    description:
+      "Built this portfolio with nextjs, react.js and styled components.",
+    image: "https://i.ibb.co/vQ4WLXm/Screenshot-10.png",
+    tags: ["React.js", "NextJs", "Styled-Components"],
+    source: "https://github.com/mohitshende/nextjs-portfolio",
+    visit: "https://mohit-nextjs-portfolio.vercel.app/",
+    id: 1,
+  },
+  {
+    title: "Avocado Agency Portfolio",
+    description: "Agency portfolio website made with nextjs and reactjs.",
+    image: "https://i.ibb.co/JkFQD7k/Screenshot-32.png",
+    tags: ["React.js", "NextJs", "CSS"],
+    source: "https://github.com/mohitshende/nextjs-agency-portfolio",
+    visit: "https://nextjs-agency-portfolio.vercel.app/",
+    id: 1,
+  },
+  {
     title: "ShareNotes",
     description:
       "ShareNotes is a web platform to share notes among students and teachers. Students and teachers can upload notes. Notes can be approved and rejected by Admin. Notes are not available to others until they are approved and are shown in the admin panel.",
