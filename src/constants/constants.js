@@ -1,5 +1,15 @@
 export const projects = [
   {
+      title: "LiveDoc",
+    description:
+      "LiveDoc is a web platform that allows users to create text documents with rich text editor integrated and realtime document editing with other users on the same document.",
+ image:"http://res.cloudinary.com/dv0oywqil/image/upload/v1686828174/uqtjpgiklmri99bbajkt.png",
+    tags: ["NextJs", "ReactJs", "TailwindCSS", "Material-UI"],
+    source: "https://github.com/mohitshende/liveDoc",
+    visit: "https://live-doc.vercel.app/",
+       id: 1,
+  },
+  {
     title: "CryptoWorld",
     description:
       "CryptoWorld is a dynamic web platform that allows users to see the latest stats about Cryptocurrencies. Users can see the details, read the history, view the chart of any cryptocurrency with its price history, and everything about any cryptocurrency.",
